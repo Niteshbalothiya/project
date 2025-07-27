@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "description": "Express server that handles base64 image uploads and returns processed images",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
